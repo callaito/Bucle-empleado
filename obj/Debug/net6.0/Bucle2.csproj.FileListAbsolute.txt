@@ -1,0 +1,14 @@
+C:\Users\ELMZ\Desktop\C# ippfm\Bucle2\bin\Debug\net6.0\Bucle2.exe
+C:\Users\ELMZ\Desktop\C# ippfm\Bucle2\bin\Debug\net6.0\Bucle2.deps.json
+C:\Users\ELMZ\Desktop\C# ippfm\Bucle2\bin\Debug\net6.0\Bucle2.runtimeconfig.json
+C:\Users\ELMZ\Desktop\C# ippfm\Bucle2\bin\Debug\net6.0\Bucle2.dll
+C:\Users\ELMZ\Desktop\C# ippfm\Bucle2\bin\Debug\net6.0\Bucle2.pdb
+C:\Users\ELMZ\Desktop\C# ippfm\Bucle2\obj\Debug\net6.0\Bucle2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELMZ\Desktop\C# ippfm\Bucle2\obj\Debug\net6.0\Bucle2.AssemblyInfoInputs.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Bucle2\obj\Debug\net6.0\Bucle2.AssemblyInfo.cs
+C:\Users\ELMZ\Desktop\C# ippfm\Bucle2\obj\Debug\net6.0\Bucle2.csproj.CoreCompileInputs.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Bucle2\obj\Debug\net6.0\Bucle2.dll
+C:\Users\ELMZ\Desktop\C# ippfm\Bucle2\obj\Debug\net6.0\refint\Bucle2.dll
+C:\Users\ELMZ\Desktop\C# ippfm\Bucle2\obj\Debug\net6.0\Bucle2.pdb
+C:\Users\ELMZ\Desktop\C# ippfm\Bucle2\obj\Debug\net6.0\Bucle2.genruntimeconfig.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Bucle2\obj\Debug\net6.0\ref\Bucle2.dll
